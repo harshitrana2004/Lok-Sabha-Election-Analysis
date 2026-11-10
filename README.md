@@ -41,13 +41,13 @@ The objective is to transform election data into meaningful visual insights that
 Add your dashboard screenshots in the `Screenshots` folder.
 
 ### Home Page
-![Dashboard Home Page](Screenshots/Home_Page.png)
+![Dashboard Home Page](Screenshots/Home_page.png)
 
 ### Election Analysis – 2014
-![2014 Election Dashboard](Screenshots/Election_2014.png)
+
 
 ### Election Analysis – 2019
-![2019 Election Dashboard](Screenshots/Election_2019.png)
+
 
 *Replace these image paths with your actual screenshot filenames.*
 
